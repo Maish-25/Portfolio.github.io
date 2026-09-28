@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="20" fill="#bb6549"/>
+  <path d="M14 15h36v5H14z" fill="#fffaf4"/>
+  <text x="32" y="49" text-anchor="middle" fill="#fffaf4" font-family="Noto Serif Devanagari,Nirmala UI,serif" font-size="39" font-weight="600">म</text>
+  <circle cx="51" cy="49" r="3" fill="#edd0a1"/>
+</svg>
